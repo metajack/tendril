@@ -132,3 +132,4 @@ as a byte offset.
 [rope]: http://en.wikipedia.org/wiki/Rope_%28data_structure%29
 [persistent data structure]: http://en.wikipedia.org/wiki/Persistent_data_structure
 [2-3 finger tree]: http://staff.city.ac.uk/~ross/papers/FingerTree.html
+foo
